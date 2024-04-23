@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Guilherme Costa</h1>
-<h3 align="center">Apaixonado por Análise e Visualização de Dados na era Digital</h3>
+<h3 align="center">Apaixonado por Desenvolvimento de Sistemas na era Digital</h3>
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados para a tomoda de melhores decisões de negócio [Produtividade ALL INN](https://drive.google.com/drive/folders/1LhWKnAQRzb6bfd85XQRSgoVHfaVgykAh?usp=sharing)
 
-- 🌱 Atualmente estou aprendendo e aperfeiçoando conhecimentos em **SQL, Python e Power BI**
+- 🌱 Atualmente estou aprendendo e aperfeiçoando conhecimentos em **SQL, Python e Java**
 
 - 👨‍💻 Todos os meus projetos você encontra [https://drive.google.com/drive/folders/1LhWKnAQRzb6bfd85XQRSgoVHfaVgykAh?usp=sharing](https://drive.google.com/drive/folders/1LhWKnAQRzb6bfd85XQRSgoVHfaVgykAh?usp=sharing)
 
-- 💬 Pergunte-me sobre **Excel, SQL, Python e Power BI**
+- 💬 Pergunte-me sobre **Excel, SQL, Python e Java**
 
 - 📫 HVocê me acha através do e-mail **guilecosta01@gmail.com**
 
